@@ -1,0 +1,20 @@
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.V40AAUkf3f0Jgt-i9n1AdAHaEP?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    background-position: center; 
+    height: 100vh; 
+    align-items: center; 
+    width: 100%;
+    
+}
+
+#personagem{
+
+    background-image: url('https://th.bing.com/th/id/R.d17395da1770bf43a8283e60a76246a2?rik=9oqde41HurfLlA&pid=ImgRaw&r=0');
+    width:100px;
+    height:100px;
+    position:absolute;
+    left: 50px;
+    top: 500px;
+    background-size: cover;
+}
